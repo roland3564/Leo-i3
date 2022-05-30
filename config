@@ -64,7 +64,12 @@ floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Return exec alacritty
-
+bindsym $mod+Control+1 exec firefox
+bindsym $mod+Control+2 exec krita
+bindsym $mod+Control+3 exec libreoffice
+bindsym $mod+Control+7 exec minecraft-launcher
+bindsym $mod+Control+8 exec supertuxkart
+bindsym $mod+Control+9 exec "0ad"
 # kill focused window
 bindsym $mod+BackSpace kill
 
