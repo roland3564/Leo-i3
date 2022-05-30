@@ -1,0 +1,44 @@
+font:
+    normal:
+          family: monospace
+          style: Regular
+
+    bold:
+          family: monospace
+          style: Bold
+
+    italic:
+          family: monospace
+          style: Italic
+
+    bold_italic:
+          family: monospace
+          style: Bold Italic
+
+    size: 11
+colors:
+    primary:
+          foreground: '#ffd78e'
+          background: '#000000'
+          bright_foreground: '#ffffff'
+
+    normal:
+          black:   '#000000'
+          red:     '#ff0000'
+          green:   '#00ff00'
+          yellow:  '#ffff00'
+          blue:    '#0000ff'
+          magenta: '#ff00ff'
+          cyan:    '#00ffff'
+          white:   '#ffffff'
+
+    bright:
+          black:   '#5e5c64'
+          red:     '#f66151'
+          green:   '#33d17a'
+          yellow:  '#e9ad0c'
+          blue:    '#2a7bde'
+          magenta: '#c061cb'
+          cyan:    '#33c7de'
+          white:   '#ffffff'
+window.opacity: 1.0
