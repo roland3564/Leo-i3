@@ -8,8 +8,8 @@
 # i3 config file (v4)
 
 #Window-land
-client.focused          #ffffff #ffffff #000000 #ffffff   #ffffff
-client.focused_inactive #ffffff #aaaaaa #000000 #aaaaaa   #aaaaaa
+client.focused          #ffffff #F0C674 #000000 #F0C674   #F0C675
+client.focused_inactive #ffffff #b3633b #000000 #b3633b   #b3633b
 client.unfocused        #ffffff #000000 #ffffff #000000   #000000
 client.urgent           #000000 #ff0000 #ffffff #ff0000   #ff0000
 client.placeholder      #000000 #000000 #ffffff #000000   #000000
